@@ -1,0 +1,334 @@
+Id1,Name1,Type1,Source1,Latitude1,Longitude1,Id2,Name2,Type2,Source2,Latitude2,Longitude2,Decision
+1,Kings Cross,Pub,OpenStreetMaps,51.4781034,-3.1757317,64,Kings Cross,Eating&Drinking,OpenStreetMaps,51.4781034,-3.1757317,TRUE
+2,Ask,Restaurant,OpenStreetMaps,51.4774563,-3.1759291,62,Ask,Eating&Drinking,OpenStreetMaps,51.4774563,-3.1759291,TRUE
+3,Vue,cinema,OpenStreetMaps,51.4768554,-3.1815465,71,Vue,Leisure,OpenStreetMaps,51.4768554,-3.1815465,TRUE
+4,Jongleurs Comedy Club,Pub,OpenStreetMaps,51.4768041,-3.1813707,47,Jongleurs Comedy Club,Eating&Drinking,OpenStreetMaps,51.4768041,-3.1813707,TRUE
+5,Burger King,fast_food,OpenStreetMaps,51.4812308,-3.1790218,51,Burger King,Eating&Drinking,OpenStreetMaps,51.4812308,-3.1790218,TRUE
+6,Natwest,bank,OpenStreetMaps,51.4823668,-3.1736504,78,Natwest,Night Life and Business,OpenStreetMaps,51.4823668,-3.1736504,TRUE
+6,Natwest,bank,OpenStreetMaps,51.4823668,-3.1736504,33,Nandos,Restaurant,OpenStreetMaps,51.4782128,-3.1767494,FALSE
+6,Natwest,bank,OpenStreetMaps,51.4823668,-3.1736504,34,Yates,Pub,OpenStreetMaps,51.4791964,-3.1805946,FALSE
+6,Natwest,bank,OpenStreetMaps,51.4823668,-3.1736504,49,Yates,Eating&Drinking,OpenStreetMaps,51.4791964,-3.1805946,FALSE
+7,Cineworld,cinema,OpenStreetMaps,51.4787927,-3.1730967,75,Cineworld,Leisure,OpenStreetMaps,51.4787927,-3.1730967,TRUE
+7,Cineworld,cinema,OpenStreetMaps,51.4787927,-3.1730967,495,Cineworld Cardiff,cinema,Foursquare.com,51.478917,-3.172978,TRUE
+7,Cineworld,cinema,OpenStreetMaps,51.4787927,-3.1730967,476,Cotswold,Outdoor store,OpenStreetMaps,51.4795168,-3.1776376,FALSE
+8,Tiger Tiger,Restaurant,OpenStreetMaps,51.4831545,-3.1769333,59,Tiger Tiger,Eating&Drinking,OpenStreetMaps,51.4831545,-3.1769333,TRUE
+8,Tiger Tiger,Restaurant,OpenStreetMaps,51.4831545,-3.1769333,83,Rummer Tavern,Pub,Foursquare.com,51.48137788,-3.179233074,FALSE
+9,Q Bar,Pub,OpenStreetMaps,51.4831927,-3.1756794,65,Q Bar,Eating&Drinking,OpenStreetMaps,51.4831927,-3.1756794,TRUE
+9,Q Bar,Pub,OpenStreetMaps,51.4831927,-3.1756794,518,Eagle Bar,Bar,Foursquare.com,51.480835,-3.173225,FALSE
+10,Wellingtons,Pub,OpenStreetMaps,51.4782474,-3.1758347,63,Wellingtons,Eating&Drinking,OpenStreetMaps,51.4782474,-3.1758347,TRUE
+10,Wellingtons,Pub,OpenStreetMaps,51.4782474,-3.1758347,12,Callaghans,Pub,OpenStreetMaps,51.4807491,-3.1845551,FALSE
+10,Wellingtons,Pub,OpenStreetMaps,51.4782474,-3.1758347,46,Callaghans,Eating&Drinking,OpenStreetMaps,51.4807491,-3.1845551,FALSE
+10,Wellingtons,Pub,OpenStreetMaps,51.4782474,-3.1758347,200,Meeting House,undefined,MasterMap,51.48030018,-3.171661573,FALSE
+11,Hard Rock Caf_,Restaurant,OpenStreetMaps,51.4777396,-3.177268,58,Hard Rock Caf_,Eating&Drinking,OpenStreetMaps,51.4777396,-3.177268,TRUE
+12,Callaghans,Pub,OpenStreetMaps,51.4807491,-3.1845551,46,Callaghans,Eating&Drinking,OpenStreetMaps,51.4807491,-3.1845551,TRUE
+12,Callaghans,Pub,OpenStreetMaps,51.4807491,-3.1845551,63,Wellingtons,Eating&Drinking,OpenStreetMaps,51.4782474,-3.1758347,FALSE
+12,Callaghans,Pub,OpenStreetMaps,51.4807491,-3.1845551,481,Las Iguanas,Restaurant,OpenStreetMaps,51.4772861,-3.1761308,FALSE
+13,The Central Bar,Pub,OpenStreetMaps,51.4832784,-3.1727672,69,The Central Bar,Eating&Drinking,OpenStreetMaps,51.4832784,-3.1727672,TRUE
+13,The Central Bar,Pub,OpenStreetMaps,51.4832784,-3.1727672,112,West Coast Grill Bar,BBQ Joint,Foursquare.com,51.4813069,-3.1804979,FALSE
+13,The Central Bar,Pub,OpenStreetMaps,51.4832784,-3.1727672,165,Central Market,undefined,MasterMap,51.47967469,-3.177365391,FALSE
+13,The Central Bar,Pub,OpenStreetMaps,51.4832784,-3.1727672,408,Cardiff Central Library,undefined,WikiLocations,51.4779,-3.17547,FALSE
+14,O'Neills,Pub,OpenStreetMaps,51.4778693,-3.17802,53,O'Neills,Eating&Drinking,OpenStreetMaps,51.4778693,-3.17802,TRUE
+14,O'Neills,Pub,OpenStreetMaps,51.4778693,-3.17802,516,O'Neills,Pub,Foursquare.com,51.480474,-3.1785679,TRUE
+14,O'Neills,Pub,OpenStreetMaps,51.4778693,-3.17802,401,Howells,undefined,WikiLocations,51.48,-3.178,FALSE
+15,Burger King,fast_food,OpenStreetMaps,51.4821181,-3.1744642,68,Burger King,Eating&Drinking,OpenStreetMaps,51.4821181,-3.1744642,TRUE
+16,McDonald's,fast_food,OpenStreetMaps,51.4815301,-3.1779403,54,McDonald's,Eating&Drinking,OpenStreetMaps,51.4815301,-3.1779403,TRUE
+16,McDonald's,fast_food,OpenStreetMaps,51.4815301,-3.1779403,508,McDOnald's,fast_food,Foursquare.com,51.4817455,-3.178311,TRUE
+17,The Goat Major,Pub,OpenStreetMaps,51.4806945,-3.1802582,50,The Goat Major,Eating&Drinking,OpenStreetMaps,51.4806945,-3.1802582,TRUE
+17,The Goat Major,Pub,OpenStreetMaps,51.4806945,-3.1802582,89,The Goat Major,Bar,Foursquare.com,51.48107888,-3.180568814,TRUE
+17,The Goat Major,Pub,OpenStreetMaps,51.4806945,-3.1802582,38,The Hilton,Hotel,OpenStreetMaps,51.48284008,-3.17851857,FALSE
+17,The Goat Major,Pub,OpenStreetMaps,51.4806945,-3.1802582,124,The Potted Pig,Restaurant,Foursquare.com,51.4807392,-3.1802287,FALSE
+17,The Goat Major,Pub,OpenStreetMaps,51.4806945,-3.1802582,243,The Capitol,undefined,MasterMap,51.48205783,-3.171240826,FALSE
+18,The Prince Of Wales,Pub,OpenStreetMaps,51.4775674,-3.1776661,55,The Prince Of Wales,Eating&Drinking,OpenStreetMaps,51.4775674,-3.1776661,TRUE
+18,The Prince Of Wales,Pub,OpenStreetMaps,51.4775674,-3.1776661,244,The City Temple,undefined,MasterMap,51.48080443,-3.187199774,FALSE
+18,The Prince Of Wales,Pub,OpenStreetMaps,51.4775674,-3.1776661,256,University of Wales,undefined,MasterMap,51.4860724,-3.180931016,FALSE
+18,The Prince Of Wales,Pub,OpenStreetMaps,51.4775674,-3.1776661,450,The Live Lounge,Bar,OpenStreetMaps,51.4824344,-3.1779649,FALSE
+19,Owain Glyndwr,Pub,OpenStreetMaps,51.4808602,-3.1786274,52,Owain Glyndwr,Eating&Drinking,OpenStreetMaps,51.4808602,-3.1786274,TRUE
+20,Spillers Records,attraction,OpenStreetMaps,51.4785189,-3.176001,74,Spillers Records,Leisure,OpenStreetMaps,51.4785189,-3.176001,TRUE
+20,Spillers Records,attraction,OpenStreetMaps,51.4785189,-3.176001,447,Gill's News,newsagents,OpenStreetMaps,51.4801486,-3.1803121,FALSE
+20,Spillers Records,attraction,OpenStreetMaps,51.4785189,-3.176001,484,Pillars Restaurant,Restaurant,OpenStreetMaps,51.4819773,-3.1771687,FALSE
+21,Fat Cats,Pub,OpenStreetMaps,51.4831854,-3.1754689,66,Fat Cats,Eating&Drinking,OpenStreetMaps,51.4831854,-3.1754689,TRUE
+21,Fat Cats,Pub,OpenStreetMaps,51.4831854,-3.1754689,198,Law Courts,undefined,MasterMap,51.48422788,-3.179149882,FALSE
+22,Pen and Wig,Pub,OpenStreetMaps,51.4860677,-3.1749992,67,Pen and Wig,Eating&Drinking,OpenStreetMaps,51.4860677,-3.1749992,TRUE
+22,Pen and Wig,Pub,OpenStreetMaps,51.4860677,-3.1749992,520,Pen and Wig,Pub,Foursquare.com,51.485888,-3.175355,TRUE
+22,Pen and Wig,Pub,OpenStreetMaps,51.4860677,-3.1749992,116,Cegin Y Ddraig,Cafe,Foursquare.com,51.48110227,-3.181014061,FALSE
+23,Sherman Theatre,theatre,OpenStreetMaps,51.487802,-3.1763946,72,Sherman Theatre,Leisure,OpenStreetMaps,51.487802,-3.1763946,TRUE
+23,Sherman Theatre,theatre,OpenStreetMaps,51.487802,-3.1763946,228,Sherman Theatre,undefined,MasterMap,51.48744891,-3.175322822,TRUE
+23,Sherman Theatre,theatre,OpenStreetMaps,51.487802,-3.1763946,37,New Theatre,attraction,OpenStreetMaps,51.48354848,-3.175350003,FALSE
+23,Sherman Theatre,theatre,OpenStreetMaps,51.487802,-3.1763946,206,New Theatre,undefined,MasterMap,51.48311208,-3.174243417,FALSE
+24,Saint David's Hall,attraction,OpenStreetMaps,51.4802684,-3.176384,73,Saint David's Hall,Leisure,OpenStreetMaps,51.4802684,-3.176384,TRUE
+24,Saint David's Hall,attraction,OpenStreetMaps,51.4802684,-3.176384,144,St David's Hall,undefined,WikiLocations,51.48027778,-3.176666667,TRUE
+24,Saint David's Hall,attraction,OpenStreetMaps,51.4802684,-3.176384,504,St David's Hall,Concert Hall,Foursquare.com,51.480204,-3.176551,TRUE
+24,Saint David's Hall,attraction,OpenStreetMaps,51.4802684,-3.176384,226,Senghennydd Hall,undefined,MasterMap,51.48576523,-3.171927972,FALSE
+24,Saint David's Hall,attraction,OpenStreetMaps,51.4802684,-3.176384,233,St David's Centre,undefined,MasterMap,51.48023402,-3.17436465,FALSE
+24,Saint David's Hall,attraction,OpenStreetMaps,51.4802684,-3.176384,234,St Davids Centre,undefined,MasterMap,51.48117732,-3.174639487,FALSE
+26,The Crockerton,Restaurant,OpenStreetMaps,51.4831815,-3.1763124,61,The Crockerton,Eating&Drinking,OpenStreetMaps,51.4831815,-3.1763124,TRUE
+26,The Crockerton,Restaurant,OpenStreetMaps,51.4831815,-3.1763124,519,The Crockerton,Pub,Foursquare.com,51.483403,-3.176266,TRUE
+26,The Crockerton,Restaurant,OpenStreetMaps,51.4831815,-3.1763124,38,The Hilton,Hotel,OpenStreetMaps,51.48284008,-3.17851857,FALSE
+26,The Crockerton,Restaurant,OpenStreetMaps,51.4831815,-3.1763124,243,The Capitol,undefined,MasterMap,51.48205783,-3.171240826,FALSE
+26,The Crockerton,Restaurant,OpenStreetMaps,51.4831815,-3.1763124,428,The City Arms,Pub,OpenStreetMaps,51.4800194,-3.1809103,FALSE
+27,David Street (NCP),parking,OpenStreetMaps,51.4794335,-3.1727795,44,David Street (NCP),Automotive,OpenStreetMaps,51.4794335,-3.1727795,TRUE
+27,David Street (NCP),parking,OpenStreetMaps,51.4794335,-3.1727795,42,Wood Street (NCP),Automotive,OpenStreetMaps,51.4767375,-3.177952962,FALSE
+27,David Street (NCP),parking,OpenStreetMaps,51.4794335,-3.1727795,45,Dumfries Place (NCP),Automotive,OpenStreetMaps,51.4838386,-3.171380335,FALSE
+27,David Street (NCP),parking,OpenStreetMaps,51.4794335,-3.1727795,176,Duke Street Arcade,undefined,MasterMap,51.48066843,-3.178035496,FALSE
+28,Greyfriars (NCP),parking,OpenStreetMaps,51.4831859,-3.175981,43,Greyfriars (NCP),Automotive,OpenStreetMaps,51.4831859,-3.175981,TRUE
+28,Greyfriars (NCP),parking,OpenStreetMaps,51.4831859,-3.175981,45,Dumfries Place (NCP),Automotive,OpenStreetMaps,51.4838386,-3.171380335,FALSE
+29,Thistle Parc Hotel,Hotel,OpenStreetMaps,51.48258,-3.1741684,77,Thistle Parc Hotel,Lodging,OpenStreetMaps,51.48258,-3.1741684,TRUE
+29,Thistle Parc Hotel,Hotel,OpenStreetMaps,51.48258,-3.1741684,138,Thistle Cardiff,Hotel,Geonames.org,51.4863,-3.1768,FALSE
+29,Thistle Parc Hotel,Hotel,OpenStreetMaps,51.48258,-3.1741684,166,Centre Hotel,undefined,MasterMap,51.48032234,-3.18300608,FALSE
+29,Thistle Parc Hotel,Hotel,OpenStreetMaps,51.48258,-3.1741684,412,Castle Arcade,undefined,WikiLocations,51.4806,-3.1809,FALSE
+30,NosDa,hostel,OpenStreetMaps,51.4788913,-3.1856562,76,NosDa,Lodging,OpenStreetMaps,51.4788913,-3.1856562,TRUE
+32,Yard,Pub,OpenStreetMaps,51.4779348,-3.1773673,56,Yard,Eating&Drinking,OpenStreetMaps,51.4779348,-3.1773673,TRUE
+32,Yard,Pub,OpenStreetMaps,51.4779348,-3.1773673,99,The Yard,Pub,Foursquare.com,51.47799,-3.17748,TRUE
+32,Yard,Pub,OpenStreetMaps,51.4779348,-3.1773673,142,Cardiff,city,WikiLocations,51.47798056,-3.177052778,FALSE
+33,Nandos,Restaurant,OpenStreetMaps,51.4782128,-3.1767494,60,Nandos,Eating&Drinking,OpenStreetMaps,51.4782128,-3.1767494,TRUE
+33,Nandos,Restaurant,OpenStreetMaps,51.4782128,-3.1767494,513,Nandos,Restaurant,Foursquare.com,51.479552,-3.1739116,TRUE
+33,Nandos,Restaurant,OpenStreetMaps,51.4782128,-3.1767494,78,Natwest,Night Life and Business,OpenStreetMaps,51.4823668,-3.1736504,FALSE
+33,Nandos,Restaurant,OpenStreetMaps,51.4782128,-3.1767494,435,Calders,Clothes shop,OpenStreetMaps,51.4811721,-3.1802052,FALSE
+34,Yates,Pub,OpenStreetMaps,51.4791964,-3.1805946,49,Yates,Eating&Drinking,OpenStreetMaps,51.4791964,-3.1805946,TRUE
+34,Yates,Pub,OpenStreetMaps,51.4791964,-3.1805946,78,Natwest,Night Life and Business,OpenStreetMaps,51.4823668,-3.1736504,FALSE
+34,Yates,Pub,OpenStreetMaps,51.4791964,-3.1805946,435,Calders,Clothes shop,OpenStreetMaps,51.4811721,-3.1802052,FALSE
+35,Metros,Pub,OpenStreetMaps,51.4790313,-3.1773411,57,Metros,Eating&Drinking,OpenStreetMaps,51.4790313,-3.1773411,TRUE
+36,Sunnys Pool Hall,Pool Hall,OpenStreetMaps,51.4776715,-3.1772218,226,Senghennydd Hall,undefined,MasterMap,51.48576523,-3.171927972,FALSE
+37,New Theatre,attraction,OpenStreetMaps,51.48354848,-3.175350003,206,New Theatre,undefined,MasterMap,51.48311208,-3.174243417,TRUE
+37,New Theatre,attraction,OpenStreetMaps,51.48354848,-3.175350003,411,New Theatre Cardiff,undefined,WikiLocations,51.4837,-3.17553,TRUE
+37,New Theatre,attraction,OpenStreetMaps,51.48354848,-3.175350003,72,Sherman Theatre,Leisure,OpenStreetMaps,51.487802,-3.1763946,FALSE
+37,New Theatre,attraction,OpenStreetMaps,51.48354848,-3.175350003,228,Sherman Theatre,undefined,MasterMap,51.48744891,-3.175322822,FALSE
+38,The Hilton,Hotel,OpenStreetMaps,51.48284008,-3.17851857,80,Hilton,Hotel,Foursquare.com,51.48312008,-3.178417683,TRUE
+38,The Hilton,Hotel,OpenStreetMaps,51.48284008,-3.17851857,137,Hilton Cardiff,Hotel,Geonames.org,51.483,-3.178,TRUE
+38,The Hilton,Hotel,OpenStreetMaps,51.48284008,-3.17851857,409,Hilton Cardiff,undefined,WikiLocations,51.4828,-3.17889,TRUE
+38,The Hilton,Hotel,OpenStreetMaps,51.48284008,-3.17851857,50,The Goat Major,Eating&Drinking,OpenStreetMaps,51.4806945,-3.1802582,FALSE
+39,Cardiff Crown Court,public_building,OpenStreetMaps,51.48437058,-3.180106695,198,Law Courts,undefined,MasterMap,51.48422788,-3.179149882,TRUE
+39,Cardiff Crown Court,public_building,OpenStreetMaps,51.48437058,-3.180106695,41,Cardiff City Hall,public_building,OpenStreetMaps,51.48507744,-3.178754445,FALSE
+39,Cardiff Crown Court,public_building,OpenStreetMaps,51.48437058,-3.180106695,79,Cardiff Castle,Historic Site,Foursquare.com,51.48173034,-3.181357384,FALSE
+39,Cardiff Crown Court,public_building,OpenStreetMaps,51.48437058,-3.180106695,105,Cardiff Business School,edu,Foursquare.com,51.4813069,-3.1804979,FALSE
+40,National Museum of Wales,museum,OpenStreetMaps,51.48576586,-3.177217798,205,National Museum of Wales,undefined,MasterMap,51.4852112,-3.176022215,TRUE
+40,National Museum of Wales,museum,OpenStreetMaps,51.48576586,-3.177217798,503,National Museum Cardiff,museum,Foursquare.com,51.485632,-3.177237,TRUE
+40,National Museum of Wales,museum,OpenStreetMaps,51.48576586,-3.177217798,256,University of Wales,undefined,MasterMap,51.4860724,-3.180931016,FALSE
+41,Cardiff City Hall,public_building,OpenStreetMaps,51.48507744,-3.178754445,169,City Hall,undefined,MasterMap,51.48478034,-3.177509851,TRUE
+41,Cardiff City Hall,public_building,OpenStreetMaps,51.48507744,-3.178754445,427,City Hall Cardiff,undefined,WikiLocations,51.485,-3.17857,TRUE
+41,Cardiff City Hall,public_building,OpenStreetMaps,51.48507744,-3.178754445,79,Cardiff Castle,Historic Site,Foursquare.com,51.48173034,-3.181357384,FALSE
+41,Cardiff City Hall,public_building,OpenStreetMaps,51.48507744,-3.178754445,105,Cardiff Business School,edu,Foursquare.com,51.4813069,-3.1804979,FALSE
+42,Wood Street (NCP),Automotive,OpenStreetMaps,51.4767375,-3.177952962,44,David Street (NCP),Automotive,OpenStreetMaps,51.4794335,-3.1727795,FALSE
+42,Wood Street (NCP),Automotive,OpenStreetMaps,51.4767375,-3.177952962,176,Duke Street Arcade,undefined,MasterMap,51.48066843,-3.178035496,FALSE
+43,Greyfriars (NCP),Automotive,OpenStreetMaps,51.4831859,-3.175981,45,Dumfries Place (NCP),Automotive,OpenStreetMaps,51.4838386,-3.171380335,FALSE
+44,David Street (NCP),Automotive,OpenStreetMaps,51.4794335,-3.1727795,45,Dumfries Place (NCP),Automotive,OpenStreetMaps,51.4838386,-3.171380335,FALSE
+44,David Street (NCP),Automotive,OpenStreetMaps,51.4794335,-3.1727795,176,Duke Street Arcade,undefined,MasterMap,51.48066843,-3.178035496,FALSE
+46,Callaghans,Eating&Drinking,OpenStreetMaps,51.4807491,-3.1845551,63,Wellingtons,Eating&Drinking,OpenStreetMaps,51.4782474,-3.1758347,FALSE
+46,Callaghans,Eating&Drinking,OpenStreetMaps,51.4807491,-3.1845551,481,Las Iguanas,Restaurant,OpenStreetMaps,51.4772861,-3.1761308,FALSE
+48,The Cardiff Arms,Eating&Drinking,OpenStreetMaps,51.479928,-3.1808452,99,The Yard,Pub,Foursquare.com,51.47799,-3.17748,FALSE
+48,The Cardiff Arms,Eating&Drinking,OpenStreetMaps,51.479928,-3.1808452,130,Cardiff Arms Park,Park,Geonames.org,51.4833333,-3.1833333,FALSE
+48,The Cardiff Arms,Eating&Drinking,OpenStreetMaps,51.479928,-3.1808452,138,Thistle Cardiff,Hotel,Geonames.org,51.4863,-3.1768,FALSE
+49,Yates,Eating&Drinking,OpenStreetMaps,51.4791964,-3.1805946,78,Natwest,Night Life and Business,OpenStreetMaps,51.4823668,-3.1736504,FALSE
+49,Yates,Eating&Drinking,OpenStreetMaps,51.4791964,-3.1805946,435,Calders,Clothes shop,OpenStreetMaps,51.4811721,-3.1802052,FALSE
+50,The Goat Major,Eating&Drinking,OpenStreetMaps,51.4806945,-3.1802582,89,The Goat Major,Bar,Foursquare.com,51.48107888,-3.180568814,TRUE
+50,The Goat Major,Eating&Drinking,OpenStreetMaps,51.4806945,-3.1802582,124,The Potted Pig,Restaurant,Foursquare.com,51.4807392,-3.1802287,FALSE
+50,The Goat Major,Eating&Drinking,OpenStreetMaps,51.4806945,-3.1802582,243,The Capitol,undefined,MasterMap,51.48205783,-3.171240826,FALSE
+53,O'Neills,Eating&Drinking,OpenStreetMaps,51.4778693,-3.17802,516,O'Neills,Pub,Foursquare.com,51.480474,-3.1785679,TRUE
+53,O'Neills,Eating&Drinking,OpenStreetMaps,51.4778693,-3.17802,401,Howells,undefined,WikiLocations,51.48,-3.178,FALSE
+54,McDonald's,Eating&Drinking,OpenStreetMaps,51.4815301,-3.1779403,508,McDOnald's,fast_food,Foursquare.com,51.4817455,-3.178311,TRUE
+55,The Prince Of Wales,Eating&Drinking,OpenStreetMaps,51.4775674,-3.1776661,244,The City Temple,undefined,MasterMap,51.48080443,-3.187199774,FALSE
+55,The Prince Of Wales,Eating&Drinking,OpenStreetMaps,51.4775674,-3.1776661,256,University of Wales,undefined,MasterMap,51.4860724,-3.180931016,FALSE
+55,The Prince Of Wales,Eating&Drinking,OpenStreetMaps,51.4775674,-3.1776661,450,The Live Lounge,Bar,OpenStreetMaps,51.4824344,-3.1779649,FALSE
+56,Yard,Eating&Drinking,OpenStreetMaps,51.4779348,-3.1773673,99,The Yard,Pub,Foursquare.com,51.47799,-3.17748,TRUE
+56,Yard,Eating&Drinking,OpenStreetMaps,51.4779348,-3.1773673,142,Cardiff,city,WikiLocations,51.47798056,-3.177052778,FALSE
+59,Tiger Tiger,Eating&Drinking,OpenStreetMaps,51.4831545,-3.1769333,83,Rummer Tavern,Pub,Foursquare.com,51.48137788,-3.179233074,FALSE
+60,Nandos,Eating&Drinking,OpenStreetMaps,51.4782128,-3.1767494,513,Nandos,Restaurant,Foursquare.com,51.479552,-3.1739116,TRUE
+60,Nandos,Eating&Drinking,OpenStreetMaps,51.4782128,-3.1767494,78,Natwest,Night Life and Business,OpenStreetMaps,51.4823668,-3.1736504,FALSE
+60,Nandos,Eating&Drinking,OpenStreetMaps,51.4782128,-3.1767494,435,Calders,Clothes shop,OpenStreetMaps,51.4811721,-3.1802052,FALSE
+61,The Crockerton,Eating&Drinking,OpenStreetMaps,51.4831815,-3.1763124,519,The Crockerton,Pub,Foursquare.com,51.483403,-3.176266,TRUE
+61,The Crockerton,Eating&Drinking,OpenStreetMaps,51.4831815,-3.1763124,243,The Capitol,undefined,MasterMap,51.48205783,-3.171240826,FALSE
+61,The Crockerton,Eating&Drinking,OpenStreetMaps,51.4831815,-3.1763124,428,The City Arms,Pub,OpenStreetMaps,51.4800194,-3.1809103,FALSE
+63,Wellingtons,Eating&Drinking,OpenStreetMaps,51.4782474,-3.1758347,200,Meeting House,undefined,MasterMap,51.48030018,-3.171661573,FALSE
+65,Q Bar,Eating&Drinking,OpenStreetMaps,51.4831927,-3.1756794,518,Eagle Bar,Bar,Foursquare.com,51.480835,-3.173225,FALSE
+66,Fat Cats,Eating&Drinking,OpenStreetMaps,51.4831854,-3.1754689,198,Law Courts,undefined,MasterMap,51.48422788,-3.179149882,FALSE
+67,Pen and Wig,Eating&Drinking,OpenStreetMaps,51.4860677,-3.1749992,520,Pen and Wig,Pub,Foursquare.com,51.485888,-3.175355,TRUE
+67,Pen and Wig,Eating&Drinking,OpenStreetMaps,51.4860677,-3.1749992,116,Cegin Y Ddraig,Cafe,Foursquare.com,51.48110227,-3.181014061,FALSE
+69,The Central Bar,Eating&Drinking,OpenStreetMaps,51.4832784,-3.1727672,112,West Coast Grill Bar,BBQ Joint,Foursquare.com,51.4813069,-3.1804979,FALSE
+69,The Central Bar,Eating&Drinking,OpenStreetMaps,51.4832784,-3.1727672,165,Central Market,undefined,MasterMap,51.47967469,-3.177365391,FALSE
+69,The Central Bar,Eating&Drinking,OpenStreetMaps,51.4832784,-3.1727672,408,Cardiff Central Library,undefined,WikiLocations,51.4779,-3.17547,FALSE
+72,Sherman Theatre,Leisure,OpenStreetMaps,51.487802,-3.1763946,228,Sherman Theatre,undefined,MasterMap,51.48744891,-3.175322822,TRUE
+72,Sherman Theatre,Leisure,OpenStreetMaps,51.487802,-3.1763946,206,New Theatre,undefined,MasterMap,51.48311208,-3.174243417,FALSE
+73,Saint David's Hall,Leisure,OpenStreetMaps,51.4802684,-3.176384,144,St David's Hall,undefined,WikiLocations,51.48027778,-3.176666667,TRUE
+73,Saint David's Hall,Leisure,OpenStreetMaps,51.4802684,-3.176384,504,St David's Hall,Concert Hall,Foursquare.com,51.480204,-3.176551,TRUE
+73,Saint David's Hall,Leisure,OpenStreetMaps,51.4802684,-3.176384,226,Senghennydd Hall,undefined,MasterMap,51.48576523,-3.171927972,FALSE
+73,Saint David's Hall,Leisure,OpenStreetMaps,51.4802684,-3.176384,233,St David's Centre,undefined,MasterMap,51.48023402,-3.17436465,FALSE
+73,Saint David's Hall,Leisure,OpenStreetMaps,51.4802684,-3.176384,234,St Davids Centre,undefined,MasterMap,51.48117732,-3.174639487,FALSE
+74,Spillers Records,Leisure,OpenStreetMaps,51.4785189,-3.176001,447,Gill's News,newsagents,OpenStreetMaps,51.4801486,-3.1803121,FALSE
+74,Spillers Records,Leisure,OpenStreetMaps,51.4785189,-3.176001,484,Pillars Restaurant,Restaurant,OpenStreetMaps,51.4819773,-3.1771687,FALSE
+75,Cineworld,Leisure,OpenStreetMaps,51.4787927,-3.1730967,495,Cineworld Cardiff,cinema,Foursquare.com,51.478917,-3.172978,TRUE
+75,Cineworld,Leisure,OpenStreetMaps,51.4787927,-3.1730967,476,Cotswold,Outdoor store,OpenStreetMaps,51.4795168,-3.1776376,FALSE
+77,Thistle Parc Hotel,Lodging,OpenStreetMaps,51.48258,-3.1741684,138,Thistle Cardiff,Hotel,Geonames.org,51.4863,-3.1768,FALSE
+77,Thistle Parc Hotel,Lodging,OpenStreetMaps,51.48258,-3.1741684,166,Centre Hotel,undefined,MasterMap,51.48032234,-3.18300608,FALSE
+77,Thistle Parc Hotel,Lodging,OpenStreetMaps,51.48258,-3.1741684,412,Castle Arcade,undefined,WikiLocations,51.4806,-3.1809,FALSE
+79,Cardiff Castle,Historic Site,Foursquare.com,51.48173034,-3.181357384,129,Cardiff Castle,Castle,Geonames.org,51.4833333,-3.1833333,TRUE
+79,Cardiff Castle,Historic Site,Foursquare.com,51.48173034,-3.181357384,140,Cardiff Castle,undefined,WikiLocations,51.48235278,-3.181219444,TRUE
+79,Cardiff Castle,Historic Site,Foursquare.com,51.48173034,-3.181357384,105,Cardiff Business School,edu,Foursquare.com,51.4813069,-3.1804979,FALSE
+80,Hilton,Hotel,Foursquare.com,51.48312008,-3.178417683,137,Hilton Cardiff,Hotel,Geonames.org,51.483,-3.178,TRUE
+80,Hilton,Hotel,Foursquare.com,51.48312008,-3.178417683,409,Hilton Cardiff,undefined,WikiLocations,51.4828,-3.17889,TRUE
+82,Revolution Vodka Bar,Cocktail Bar,Foursquare.com,51.48104,-3.181352,433,Revolution,Bar,OpenStreetMaps,51.4809746,-3.1814445,TRUE
+89,The Goat Major,Bar,Foursquare.com,51.48107888,-3.180568814,124,The Potted Pig,Restaurant,Foursquare.com,51.4807392,-3.1802287,FALSE
+89,The Goat Major,Bar,Foursquare.com,51.48107888,-3.180568814,243,The Capitol,undefined,MasterMap,51.48205783,-3.171240826,FALSE
+91,Flavour,Restaurant,Foursquare.com,51.481817,-3.181551,156,Belgrave Court,undefined,MasterMap,51.48074195,-3.186664536,FALSE
+92,Dempsey's,Dive Bar,Foursquare.com,51.4810958,-3.1817546,439,Dempseys,Bar,OpenStreetMaps,51.4809606,-3.1816534,TRUE
+92,Dempsey's,Dive Bar,Foursquare.com,51.4810958,-3.1817546,119,Sweeney's,Salon or Barbershop,Foursquare.com,51.48115322,-3.179253191,FALSE
+93,That Shop (Castle Arcade),Convenience Store,Foursquare.com,51.481233,-3.181149,412,Castle Arcade,undefined,WikiLocations,51.4806,-3.1809,FALSE
+95,Pizza Hut,Pizza Place,Foursquare.com,51.48172366,-3.178836107,485,Pizza Hut,Restaurant,OpenStreetMaps,51.4817508,-3.1788394,TRUE
+95,Pizza Hut,Pizza Place,Foursquare.com,51.48172366,-3.178836107,110,Pizza Express,Pizza Place,Foursquare.com,51.4809507,-3.1803823,FALSE
+95,Pizza Hut,Pizza Place,Foursquare.com,51.48172366,-3.178836107,441,Pizza Express,Italian Restaurant,OpenStreetMaps,51.4808659,-3.1805238,FALSE
+96,Pillars,Diner,Foursquare.com,51.482316,-3.179579,484,Pillars Restaurant,Restaurant,OpenStreetMaps,51.4819773,-3.1771687,TRUE
+96,Pillars,Diner,Foursquare.com,51.482316,-3.179579,109,Milletts,Outdoor store,Foursquare.com,51.481428,-3.179888,FALSE
+96,Pillars,Diner,Foursquare.com,51.482316,-3.179579,435,Calders,Clothes shop,OpenStreetMaps,51.4811721,-3.1802052,FALSE
+96,Pillars,Diner,Foursquare.com,51.482316,-3.179579,482,Millets,Outdoor store,OpenStreetMaps,51.4812912,-3.179614,FALSE
+97,Subway,Sandwich Place,Foursquare.com,51.48140294,-3.179308176,480,Juborai,indian restaurant,OpenStreetMaps,51.4774546,-3.1760822,FALSE
+99,The Yard,Pub,Foursquare.com,51.47799,-3.17748,138,Thistle Cardiff,Hotel,Geonames.org,51.4863,-3.1768,FALSE
+99,The Yard,Pub,Foursquare.com,51.47799,-3.17748,243,The Capitol,undefined,MasterMap,51.48205783,-3.171240826,FALSE
+103,Madame Fromage,Cafe,Foursquare.com,51.480721,-3.1803,490,Madame Fromage,Convenience Store,OpenStreetMaps,51.4804557,-3.1809921,TRUE
+103,Madame Fromage,Cafe,Foursquare.com,51.480721,-3.1803,412,Castle Arcade,undefined,WikiLocations,51.4806,-3.1809,FALSE
+106,Caffe Gelato,Ice Cream Shop,Foursquare.com,51.48205471,-3.17901516,487,Caffe Gelato,Cafe,OpenStreetMaps,51.4810756,-3.1808433,TRUE
+106,Caffe Gelato,Ice Cream Shop,Foursquare.com,51.48205471,-3.17901516,107,Caffe Nero,Cafe,Foursquare.com,51.48106218,-3.18120718,FALSE
+106,Caffe Gelato,Ice Cream Shop,Foursquare.com,51.48205471,-3.17901516,108,Cafe Minuet,Italian Restaurant,Foursquare.com,51.48100204,-3.181051612,FALSE
+106,Caffe Gelato,Ice Cream Shop,Foursquare.com,51.48205471,-3.17901516,111,Cafe Citta,Cafe,Foursquare.com,51.481636,-3.179329,FALSE
+107,Caffe Nero,Cafe,Foursquare.com,51.48106218,-3.18120718,483,Caffe Nero,Cafe,OpenStreetMaps,51.481232,-3.1798974,TRUE
+107,Caffe Nero,Cafe,Foursquare.com,51.48106218,-3.18120718,162,Castle Court,undefined,MasterMap,51.47941417,-3.180468828,FALSE
+107,Caffe Nero,Cafe,Foursquare.com,51.48106218,-3.18120718,163,Castle Mews,undefined,MasterMap,51.48485208,-3.182160981,FALSE
+108,Cafe Minuet,Italian Restaurant,Foursquare.com,51.48100204,-3.181051612,111,Cafe Citta,Cafe,Foursquare.com,51.481636,-3.179329,FALSE
+108,Cafe Minuet,Italian Restaurant,Foursquare.com,51.48100204,-3.181051612,162,Castle Court,undefined,MasterMap,51.47941417,-3.180468828,FALSE
+109,Milletts,Outdoor store,Foursquare.com,51.481428,-3.179888,482,Millets,Outdoor store,OpenStreetMaps,51.4812912,-3.179614,TRUE
+110,Pizza Express,Pizza Place,Foursquare.com,51.4809507,-3.1803823,441,Pizza Express,Italian Restaurant,OpenStreetMaps,51.4808659,-3.1805238,TRUE
+110,Pizza Express,Pizza Place,Foursquare.com,51.4809507,-3.1803823,463,Lifestyle Express,Convenience Store,OpenStreetMaps,51.4773322,-3.1797083,FALSE
+110,Pizza Express,Pizza Place,Foursquare.com,51.4809507,-3.1803823,485,Pizza Hut,Restaurant,OpenStreetMaps,51.4817508,-3.1788394,FALSE
+116,Cegin Y Ddraig,Cafe,Foursquare.com,51.48110227,-3.181014061,520,Pen and Wig,Pub,Foursquare.com,51.485888,-3.175355,FALSE
+118,Marks And Spencer,Furniture or Home Store,Foursquare.com,51.48204,-3.174823,438,Marks and Spencer,Department Store,OpenStreetMaps,51.4819593,-3.1750533,TRUE
+118,Marks And Spencer,Furniture or Home Store,Foursquare.com,51.48204,-3.174823,199,Marland House,undefined,MasterMap,51.47691847,-3.177308102,FALSE
+122,Castle Welsh Crafts,Gift Shop,Foursquare.com,51.481233,-3.181128,162,Castle Court,undefined,MasterMap,51.47941417,-3.180468828,FALSE
+122,Castle Welsh Crafts,Gift Shop,Foursquare.com,51.481233,-3.181128,163,Castle Mews,undefined,MasterMap,51.48485208,-3.182160981,FALSE
+127,Queen Street,railwaystation,Geonames.org,51.48297309,-3.172216415,176,Duke Street Arcade,undefined,MasterMap,51.48066843,-3.178035496,FALSE
+127,Queen Street,railwaystation,Geonames.org,51.48297309,-3.172216415,186,Green Gardens,undefined,MasterMap,51.4782717,-3.175491595,FALSE
+127,Queen Street,railwaystation,Geonames.org,51.48297309,-3.172216415,216,Queens Arcade,undefined,MasterMap,51.48056496,-3.176149845,FALSE
+128,Cathays Park,Park,Geonames.org,51.4841667,-3.1836111,130,Cardiff Arms Park,Park,Geonames.org,51.4833333,-3.1833333,FALSE
+128,Cathays Park,Park,Geonames.org,51.4841667,-3.1836111,141,Cardiff Arms Park,undefined,WikiLocations,51.47966667,-3.183583333,FALSE
+128,Cathays Park,Park,Geonames.org,51.4841667,-3.1836111,160,Cardiff Arms Park,undefined,MasterMap,51.4788772,-3.182620304,FALSE
+129,Cardiff Castle,Castle,Geonames.org,51.4833333,-3.1833333,140,Cardiff Castle,undefined,WikiLocations,51.48235278,-3.181219444,TRUE
+130,Cardiff Arms Park,Park,Geonames.org,51.4833333,-3.1833333,141,Cardiff Arms Park,undefined,WikiLocations,51.47966667,-3.183583333,TRUE
+130,Cardiff Arms Park,Park,Geonames.org,51.4833333,-3.1833333,160,Cardiff Arms Park,undefined,MasterMap,51.4788772,-3.182620304,TRUE
+131,Millenium stadium,Stadium,Geonames.org,51.47895,-3.18225,132,Cardiff Millenium Stadium,Stadium,Geonames.org,51.47876,-3.18164,TRUE
+131,Millenium stadium,Stadium,Geonames.org,51.47895,-3.18225,143,Millennium Stadium,undefined,WikiLocations,51.47805556,-3.182222222,TRUE
+131,Millenium stadium,Stadium,Geonames.org,51.47895,-3.18225,201,Millennium Stadium,undefined,MasterMap,51.47777177,-3.181738271,TRUE
+131,Millenium stadium,Stadium,Geonames.org,51.47895,-3.18225,505,Millenium Stadium,Stadium,Foursquare.com,51.478416,-3.182688,TRUE
+132,Cardiff Millenium Stadium,Stadium,Geonames.org,51.47876,-3.18164,143,Millennium Stadium,undefined,WikiLocations,51.47805556,-3.182222222,TRUE
+132,Cardiff Millenium Stadium,Stadium,Geonames.org,51.47876,-3.18164,201,Millennium Stadium,undefined,MasterMap,51.47777177,-3.181738271,TRUE
+132,Cardiff Millenium Stadium,Stadium,Geonames.org,51.47876,-3.18164,505,Millenium Stadium,Stadium,Foursquare.com,51.478416,-3.182688,TRUE
+132,Cardiff Millenium Stadium,Stadium,Geonames.org,51.47876,-3.18164,400,Cardiff Metropolitan Cathedral,undefined,WikiLocations,51.4809,-3.17402,FALSE
+133,Holiday Inn Cardiff City,Hotel,Geonames.org,51.4809494,-3.183488131,137,Hilton Cardiff,Hotel,Geonames.org,51.483,-3.178,FALSE
+133,Holiday Inn Cardiff City,Hotel,Geonames.org,51.4809494,-3.183488131,409,Hilton Cardiff,undefined,WikiLocations,51.4828,-3.17889,FALSE
+133,Holiday Inn Cardiff City,Hotel,Geonames.org,51.4809494,-3.183488131,426,HM Prison Cardiff,undefined,WikiLocations,51.4811,-3.16833,FALSE
+134,ML Lodge,Hotel,Geonames.org,51.47880173,-3.178691387,207,North Lodge,undefined,MasterMap,51.48335634,-3.179877819,FALSE
+135,Sandringham,Hotel,Geonames.org,51.47872162,-3.176975489,456,Sandringham Hotel,Hotel,OpenStreetMaps,51.4792109,-3.1782588,TRUE
+136,Angel,Hotel,Geonames.org,51.48039246,-3.181512117,151,Angel Hotel,undefined,MasterMap,51.4802249,-3.181449682,TRUE
+136,Angel,Hotel,Geonames.org,51.48039246,-3.181512117,459,The Angel Hotel,Hotel,OpenStreetMaps,51.4807842,-3.1830139,TRUE
+137,Hilton Cardiff,Hotel,Geonames.org,51.483,-3.178,409,Hilton Cardiff,undefined,WikiLocations,51.4828,-3.17889,TRUE
+137,Hilton Cardiff,Hotel,Geonames.org,51.483,-3.178,138,Thistle Cardiff,Hotel,Geonames.org,51.4863,-3.1768,FALSE
+137,Hilton Cardiff,Hotel,Geonames.org,51.483,-3.178,142,Cardiff,city,WikiLocations,51.47798056,-3.177052778,FALSE
+139,Animal Wall,undefined,WikiLocations,51.481098,-3.184474833,145,Aberdare Hall,undefined,MasterMap,51.48862378,-3.182708258,FALSE
+139,Animal Wall,undefined,WikiLocations,51.481098,-3.184474833,154,Assembly Hall,undefined,MasterMap,51.48849055,-3.178299035,FALSE
+139,Animal Wall,undefined,WikiLocations,51.481098,-3.184474833,169,City Hall,undefined,MasterMap,51.48478034,-3.177509851,FALSE
+141,Cardiff Arms Park,undefined,WikiLocations,51.47966667,-3.183583333,160,Cardiff Arms Park,undefined,MasterMap,51.4788772,-3.182620304,TRUE
+143,Millennium Stadium,undefined,WikiLocations,51.47805556,-3.182222222,201,Millennium Stadium,undefined,MasterMap,51.47777177,-3.181738271,TRUE
+143,Millennium Stadium,undefined,WikiLocations,51.47805556,-3.182222222,505,Millenium Stadium,Stadium,Foursquare.com,51.478416,-3.182688,TRUE
+144,St David's Hall,undefined,WikiLocations,51.48027778,-3.176666667,504,St David's Hall,Concert Hall,Foursquare.com,51.480204,-3.176551,TRUE
+144,St David's Hall,undefined,WikiLocations,51.48027778,-3.176666667,233,St David's Centre,undefined,MasterMap,51.48023402,-3.17436465,FALSE
+144,St David's Hall,undefined,WikiLocations,51.48027778,-3.176666667,234,St Davids Centre,undefined,MasterMap,51.48117732,-3.174639487,FALSE
+144,St David's Hall,undefined,WikiLocations,51.48027778,-3.176666667,235,St Davids House,undefined,MasterMap,51.47663037,-3.178907147,FALSE
+145,Aberdare Hall,undefined,MasterMap,51.48862378,-3.182708258,154,Assembly Hall,undefined,MasterMap,51.48849055,-3.178299035,FALSE
+151,Angel Hotel,undefined,MasterMap,51.4802249,-3.181449682,459,The Angel Hotel,Hotel,OpenStreetMaps,51.4807842,-3.1830139,TRUE
+151,Angel Hotel,undefined,MasterMap,51.4802249,-3.181449682,166,Centre Hotel,undefined,MasterMap,51.48032234,-3.18300608,FALSE
+151,Angel Hotel,undefined,MasterMap,51.4802249,-3.181449682,223,Royal Hotel,undefined,MasterMap,51.47755599,-3.176957997,FALSE
+151,Angel Hotel,undefined,MasterMap,51.4802249,-3.181449682,442,Sleeperz Hotels,Hotel,OpenStreetMaps,51.476143,-3.1773247,FALSE
+152,Arcade 1,undefined,MasterMap,51.48208335,-3.171602707,153,Arcade 2,undefined,MasterMap,51.48216281,-3.170795726,FALSE
+154,Assembly Hall,undefined,MasterMap,51.48849055,-3.178299035,169,City Hall,undefined,MasterMap,51.48478034,-3.177509851,FALSE
+156,Belgrave Court,undefined,MasterMap,51.48074195,-3.186664536,162,Castle Court,undefined,MasterMap,51.47941417,-3.180468828,FALSE
+156,Belgrave Court,undefined,MasterMap,51.48074195,-3.186664536,195,Jones Court,undefined,MasterMap,51.47982525,-3.17952025,FALSE
+157,Brewery Quarter,undefined,MasterMap,51.47779093,-3.175501269,404,Old Brewery quarter,undefined,WikiLocations,51.4787,-3.17712,TRUE
+157,Brewery Quarter,undefined,MasterMap,51.47779093,-3.175501269,491,The Brewery Quarter,Bar,OpenStreetMaps,51.4779763,-3.1775127,TRUE
+157,Brewery Quarter,undefined,MasterMap,51.47779093,-3.175501269,467,Spice Quarter,indian restaurant,OpenStreetMaps,51.4781159,-3.1764614,FALSE
+158,Capital Tower,undefined,MasterMap,51.48243739,-3.176490688,406,Capital Tower Cardiff,undefined,WikiLocations,51.4831,-3.1775,TRUE
+158,Capital Tower,undefined,MasterMap,51.48243739,-3.176490688,407,Capitol Centre,undefined,WikiLocations,51.4822,-3.17222,FALSE
+159,Caradog House,undefined,MasterMap,51.48524661,-3.17383444,167,Churchill House,undefined,MasterMap,51.48152979,-3.171499367,FALSE
+159,Caradog House,undefined,MasterMap,51.48524661,-3.17383444,179,Elgin House,undefined,MasterMap,51.47871198,-3.177903717,FALSE
+159,Caradog House,undefined,MasterMap,51.48524661,-3.17383444,183,Friary House,undefined,MasterMap,51.48256487,-3.175453629,FALSE
+164,Cathedral Church,undefined,MasterMap,51.48037857,-3.172950441,177,ebeneser church,undefined,MasterMap,51.4807544,-3.172319313,FALSE
+167,Churchill House,undefined,MasterMap,51.48152979,-3.171499367,179,Elgin House,undefined,MasterMap,51.47871198,-3.177903717,FALSE
+167,Churchill House,undefined,MasterMap,51.48152979,-3.171499367,183,Friary House,undefined,MasterMap,51.48256487,-3.175453629,FALSE
+168,City Arms,undefined,MasterMap,51.47956785,-3.179630267,428,The City Arms,Pub,OpenStreetMaps,51.4800194,-3.1809103,TRUE
+168,City Arms,undefined,MasterMap,51.47956785,-3.179630267,515,The City Arms,Pub,Foursquare.com,51.4800198,-3.180896,TRUE
+169,City Hall,undefined,MasterMap,51.48478034,-3.177509851,427,City Hall Cardiff,undefined,WikiLocations,51.485,-3.17857,TRUE
+170,City Temple,undefined,MasterMap,51.48097948,-3.187230965,244,The City Temple,undefined,MasterMap,51.48080443,-3.187199774,TRUE
+170,City Temple,undefined,MasterMap,51.48097948,-3.187230965,407,Capitol Centre,undefined,WikiLocations,51.4822,-3.17222,FALSE
+172,Computer Centre,undefined,MasterMap,51.48647532,-3.175378453,233,St David's Centre,undefined,MasterMap,51.48023402,-3.17436465,FALSE
+172,Computer Centre,undefined,MasterMap,51.48647532,-3.175378453,234,St Davids Centre,undefined,MasterMap,51.48117732,-3.174639487,FALSE
+172,Computer Centre,undefined,MasterMap,51.48647532,-3.175378453,407,Capitol Centre,undefined,WikiLocations,51.4822,-3.17222,FALSE
+179,Elgin House,undefined,MasterMap,51.47871198,-3.177903717,183,Friary House,undefined,MasterMap,51.48256487,-3.175453629,FALSE
+184,Glamorgan Buildings,undefined,MasterMap,51.48566752,-3.180656384,191,Indoor Bowling,undefined,MasterMap,51.48431471,-3.188455477,FALSE
+184,Glamorgan Buildings,undefined,MasterMap,51.48566752,-3.180656384,197,Law Building,undefined,MasterMap,51.48866264,-3.180502406,FALSE
+184,Glamorgan Buildings,undefined,MasterMap,51.48566752,-3.180656384,218,Redwood Building,undefined,MasterMap,51.48718529,-3.182581007,FALSE
+189,High Street Arcade,undefined,MasterMap,51.48029211,-3.178076208,202,Morgan Arcade,undefined,MasterMap,51.47825934,-3.176052227,FALSE
+191,Indoor Bowling,undefined,MasterMap,51.48431471,-3.188455477,192,Indoor Bowling Green,undefined,MasterMap,51.48431837,-3.188226553,TRUE
+191,Indoor Bowling,undefined,MasterMap,51.48431471,-3.188455477,218,Redwood Building,undefined,MasterMap,51.48718529,-3.182581007,FALSE
+194,Institute of Science,undefined,MasterMap,51.4860531,-3.180973009,229,Society of Friends,undefined,MasterMap,51.48030719,-3.171724403,FALSE
+194,Institute of Science,undefined,MasterMap,51.4860531,-3.180973009,261,Welsh Institute of Sport,undefined,MasterMap,51.48540572,-3.189060004,FALSE
+195,Jones Court,undefined,MasterMap,51.47982525,-3.17952025,198,Law Courts,undefined,MasterMap,51.48422788,-3.179149882,FALSE
+197,Law Building,undefined,MasterMap,51.48866264,-3.180502406,218,Redwood Building,undefined,MasterMap,51.48718529,-3.182581007,FALSE
+197,Law Building,undefined,MasterMap,51.48866264,-3.180502406,222,Royal Buildings,undefined,MasterMap,51.48234258,-3.173314818,FALSE
+201,Millennium Stadium,undefined,MasterMap,51.47777177,-3.181738271,505,Millenium Stadium,Stadium,Foursquare.com,51.478416,-3.182688,TRUE
+202,Morgan Arcade,undefined,MasterMap,51.47825934,-3.176052227,403,Morgan Arcade,undefined,WikiLocations,51.4788,-3.17707,TRUE
+202,Morgan Arcade,undefined,MasterMap,51.47825934,-3.176052227,211,Old Arcade,undefined,MasterMap,51.4798987,-3.177715375,FALSE
+203,Multistorey Car Park,undefined,MasterMap,51.48258881,-3.174967706,455,Castle Court car park,parking,OpenStreetMaps,51.4795729,-3.1817682,FALSE
+205,National Museum of Wales,undefined,MasterMap,51.4852112,-3.176022215,503,National Museum Cardiff,museum,Foursquare.com,51.485632,-3.177237,TRUE
+205,National Museum of Wales,undefined,MasterMap,51.4852112,-3.176022215,256,University of Wales,undefined,MasterMap,51.4860724,-3.180931016,FALSE
+206,New Theatre,undefined,MasterMap,51.48311208,-3.174243417,411,New Theatre Cardiff,undefined,WikiLocations,51.4837,-3.17553,TRUE
+206,New Theatre,undefined,MasterMap,51.48311208,-3.174243417,228,Sherman Theatre,undefined,MasterMap,51.48744891,-3.175322822,FALSE
+207,North Lodge,undefined,MasterMap,51.48335634,-3.179877819,231,South Gate,undefined,MasterMap,51.47738936,-3.177745791,FALSE
+207,North Lodge,undefined,MasterMap,51.48335634,-3.179877819,443,Travelodge,Hotel,OpenStreetMaps,51.4766731,-3.1774136,FALSE
+211,Old Arcade,undefined,MasterMap,51.4798987,-3.177715375,212,Oxford Arcade,undefined,MasterMap,51.47876204,-3.174257712,FALSE
+211,Old Arcade,undefined,MasterMap,51.4798987,-3.177715375,216,Queens Arcade,undefined,MasterMap,51.48056496,-3.176149845,FALSE
+214,Police Headquarters,undefined,MasterMap,51.48464427,-3.17964027,467,Spice Quarter,indian restaurant,OpenStreetMaps,51.4781159,-3.1764614,FALSE
+215,Principality House,undefined,MasterMap,51.48213838,-3.176463117,220,Richard House,undefined,MasterMap,51.47779608,-3.184730267,FALSE
+221,Royal Arcade,undefined,MasterMap,51.47806726,-3.175611634,405,Royal Arcade,undefined,WikiLocations,51.4785,-3.1769,TRUE
+233,St David's Centre,undefined,MasterMap,51.48023402,-3.17436465,234,St Davids Centre,undefined,MasterMap,51.48117732,-3.174639487,TRUE
+240,St John the Baptist,undefined,MasterMap,51.48028238,-3.177030341,402,St John the Baptist Church Car,undefined,WikiLocations,51.4807,-3.17837,TRUE
+240,St John the Baptist,undefined,MasterMap,51.48028238,-3.177030341,501,John Lewis,Department Store,Foursquare.com,51.478389,-3.174936,FALSE
+243,The Capitol,undefined,MasterMap,51.48205783,-3.171240826,407,Capitol Centre,undefined,WikiLocations,51.4822,-3.17222,TRUE
+244,The City Temple,undefined,MasterMap,51.48080443,-3.187199774,262,Welsh National Temple,undefined,MasterMap,51.48684806,-3.18195649,FALSE
+253,University College,undefined,MasterMap,51.48822961,-3.1776873,256,University of Wales,undefined,MasterMap,51.4860724,-3.180931016,FALSE
+258,Victoria Place,undefined,MasterMap,51.47921336,-3.175661266,507,Pica Pica,Restaurant,Foursquare.com,51.47985,-3.181567,FALSE
+261,Welsh Institute of Sport,undefined,MasterMap,51.48540572,-3.189060004,262,Welsh National Temple,undefined,MasterMap,51.48684806,-3.18195649,FALSE
+262,Welsh National Temple,undefined,MasterMap,51.48684806,-3.18195649,413,Wales National Ice Rink,undefined,WikiLocations,51.4776,-3.17372,FALSE
+401,Howells,undefined,WikiLocations,51.48,-3.178,516,O'Neills,Pub,Foursquare.com,51.480474,-3.1785679,FALSE
+404,Old Brewery quarter,undefined,WikiLocations,51.4787,-3.17712,491,The Brewery Quarter,Bar,OpenStreetMaps,51.4779763,-3.1775127,TRUE
+404,Old Brewery quarter,undefined,WikiLocations,51.4787,-3.17712,467,Spice Quarter,indian restaurant,OpenStreetMaps,51.4781159,-3.1764614,FALSE
+406,Capital Tower Cardiff,undefined,WikiLocations,51.4831,-3.1775,407,Capitol Centre,undefined,WikiLocations,51.4822,-3.17222,FALSE
+414,Clwb Ifor Bach,undefined,WikiLocations,51.4805,-3.18147,460,Clwb Ifor Bach,Nightclub,OpenStreetMaps,51.480524,-3.1815231,TRUE
+414,Clwb Ifor Bach,undefined,WikiLocations,51.4805,-3.18147,493,Clwb Ifor Bach,Music Venue,Foursquare.com,51.4803522,-3.181387,TRUE
+420,Motorpoint Arena Cardiff,undefined,WikiLocations,51.4778,-3.1715,506,Motorpoint Arena,Concert Hall,Foursquare.com,51.478857,-3.171744,TRUE
+428,The City Arms,Pub,OpenStreetMaps,51.4800194,-3.1809103,515,The City Arms,Pub,Foursquare.com,51.4800198,-3.180896,TRUE
+434,Next,Clothes shop,OpenStreetMaps,51.4821454,-3.1744007,498,Next,Apparel,Foursquare.com,51.482226,-3.174538,TRUE
+438,Marks and Spencer,Department Store,OpenStreetMaps,51.4819593,-3.1750533,478,Morgan and Schulz,fast_food,OpenStreetMaps,51.4781915,-3.1754969,FALSE
+441,Pizza Express,Italian Restaurant,OpenStreetMaps,51.4808659,-3.1805238,463,Lifestyle Express,Convenience Store,OpenStreetMaps,51.4773322,-3.1797083,FALSE
+441,Pizza Express,Italian Restaurant,OpenStreetMaps,51.4808659,-3.1805238,485,Pizza Hut,Restaurant,OpenStreetMaps,51.4817508,-3.1788394,FALSE
+443,Travelodge,Hotel,OpenStreetMaps,51.4766731,-3.1774136,466,Thai Edge,Thai Restaurant,OpenStreetMaps,51.4780811,-3.1763731,FALSE
+445,Mordaith Bar and Grill,Bar,OpenStreetMaps,51.4831886,-3.1750948,478,Morgan and Schulz,fast_food,OpenStreetMaps,51.4781915,-3.1754969,FALSE
+447,Gill's News,newsagents,OpenStreetMaps,51.4801486,-3.1803121,482,Millets,Outdoor store,OpenStreetMaps,51.4812912,-3.179614,FALSE
+448,Varsity,Bar,OpenStreetMaps,51.4832201,-3.1761152,523,Taste,Cafe,Foursquare.com,51.480382,-3.179757,FALSE
+452,John Lewis car park,parking,OpenStreetMaps,51.4777452,-3.1746766,455,Castle Court car park,parking,OpenStreetMaps,51.4795729,-3.1817682,FALSE
+452,John Lewis car park,parking,OpenStreetMaps,51.4777452,-3.1746766,501,John Lewis,Department Store,Foursquare.com,51.478389,-3.174936,FALSE
+460,Clwb Ifor Bach,Nightclub,OpenStreetMaps,51.480524,-3.1815231,493,Clwb Ifor Bach,Music Venue,Foursquare.com,51.4803522,-3.181387,TRUE
+465,La Tasca,Restaurant,OpenStreetMaps,51.4781532,-3.1765081,510,La Tasca,Restaurant,Foursquare.com,51.478083,-3.176737,TRUE
+468,Thai House Restaurant,Thai Restaurant,OpenStreetMaps,51.4801778,-3.1709203,484,Pillars Restaurant,Restaurant,OpenStreetMaps,51.4819773,-3.1771687,FALSE
+473,H&M,Clothes shop,OpenStreetMaps,51.4791083,-3.1757758,500,H&M,Apparel,Foursquare.com,51.479245,-3.175735,TRUE
+474,Wagamama,Restaurant,OpenStreetMaps,51.4777323,-3.175518,512,Wagamama,Restaurant,Foursquare.com,51.477935,-3.175607,TRUE
+486,Wally's Kaffeehaus,Restaurant,OpenStreetMaps,51.478721,-3.1761168,525,Wally's Kaffeehaus,Coffee shop,Foursquare.com,51.478416,-3.176808,TRUE
+486,Wally's Kaffeehaus,Restaurant,OpenStreetMaps,51.478721,-3.1761168,509,Wally's Delicatessen,Delicatessen,Foursquare.com,51.478496,-3.1765079,FALSE
+488,WhSmith,bookshop,OpenStreetMaps,51.4824561,-3.1746465,499,WHSMith,bookshop,Foursquare.com,51.482256,-3.174662,TRUE
+489,Cardiff Indoor Market,marketplace,OpenStreetMaps,51.4801394,-3.1785808,496,Cardiff Market,Mall,Foursquare.com,51.48005,-3.178761,TRUE
+492,Barkers Coffee Shop,Coffee shop,OpenStreetMaps,51.4805188,-3.18044,521,Coffee Barker,Coffee shop,Foursquare.com,51.4806078,-3.1806707,TRUE
+509,Wally's Delicatessen,Delicatessen,Foursquare.com,51.478496,-3.1765079,525,Wally's Kaffeehaus,Coffee shop,Foursquare.com,51.478416,-3.176808,FALSE
